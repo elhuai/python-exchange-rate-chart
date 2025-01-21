@@ -1,1 +1,1 @@
-# python-exchange-rate-chart
+# 美金現金賣出比較表
