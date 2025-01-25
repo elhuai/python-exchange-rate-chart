@@ -32,7 +32,7 @@ python src/rate.py
 The script will generate an Excel file named `匯率及時更新.xlsx` in the project directory. This file will contain the fetched exchange rate data and two line charts showing the trends for USD and JPY.
 
 ## 💡 Overview
-https://github.com/user-attachments/assets/2753389c-c7d3-40dd-bdc2-1c21f65cd11c
+<img width="1506" alt="截圖 2025-01-25 晚上11 10 35" src="https://github.com/user-attachments/assets/04469588-69e4-4ede-b6d1-715ebb80669a" />
 <img width="996" alt="截圖 2025-01-25 晚上10 45 09" src="https://github.com/user-attachments/assets/09183830-7e9e-43b4-8898-2bc441a1321c" />
 <img width="993" alt="JPY" src="https://github.com/user-attachments/assets/667451dc-920d-44eb-b912-b275087f89b7" />
 
