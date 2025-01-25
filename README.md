@@ -1,5 +1,3 @@
-<img width="996" alt="截圖 2025-01-25 晚上10 45 09" src="https://github.com/user-attachments/assets/09183830-7e9e-43b4-8898-2bc441a1321c" /># USD and JPY Exchange Rate Comparison
-
 ## Project Description
 
 This project uses Python to fetch USD and JPY exchange rate data from the Bank of Taiwan, imports the data into an Excel file, and generates a line chart showing the exchange rate trends.
